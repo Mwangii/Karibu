@@ -68,7 +68,7 @@
         </Button>
 
         <Button
-            android:id="@+id/btn2"
+            android:id="@+id/btnDiscover"
             android:layout_width="240dp"
             android:layout_height="38dp"
             android:layout_below="@id/button"
